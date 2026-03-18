@@ -1,0 +1,78 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="900" fill="#0C1729"/>
+  <rect width="1600" height="900" fill="#0E213C"/>
+
+  <circle cx="250" cy="170" r="200" fill="#163454" fill-opacity="0.20"/>
+  <circle cx="1320" cy="250" r="220" fill="#163454" fill-opacity="0.16"/>
+  <circle cx="1120" cy="760" r="230" fill="#163454" fill-opacity="0.14"/>
+
+  <!-- Espanha simplificada -->
+  <path d="M820 90
+           L980 110
+           L1100 170
+           L1160 280
+           L1145 405
+           L1080 555
+           L980 705
+           L875 790
+           L760 815
+           L690 785
+           L650 705
+           L660 610
+           L715 480
+           L760 345
+           L760 210
+           Z"
+        fill="#5F7FA3" fill-opacity="0.72"/>
+
+  <!-- Portugal destacado -->
+  <path d="M650 130
+           L735 138
+           L760 205
+           L760 310
+           L748 420
+           L730 525
+           L710 625
+           L695 735
+           L650 780
+           L608 760
+           L595 690
+           L600 585
+           L608 480
+           L620 375
+           L625 275
+           L630 185
+           Z"
+        fill="#89A9CB" fill-opacity="0.96"/>
+
+  <!-- Algarve destacado -->
+  <path d="M620 680
+           L675 690
+           L730 695
+           L745 735
+           L720 770
+           L650 775
+           L600 760
+           L595 720
+           Z"
+        fill="#F0B35A" fill-opacity="0.95"/>
+
+  <!-- oceano -->
+  <path d="M0 0
+           L530 0
+           L560 120
+           L555 250
+           L540 380
+           L530 510
+           L515 650
+           L520 900
+           L0 900
+           Z"
+        fill="#103055" fill-opacity="0.82"/>
+
+  <circle cx="150" cy="110" r="2" fill="white" fill-opacity="0.38"/>
+  <circle cx="310" cy="90" r="1.8" fill="white" fill-opacity="0.30"/>
+  <circle cx="1290" cy="115" r="1.8" fill="white" fill-opacity="0.26"/>
+  <circle cx="1420" cy="360" r="2" fill="white" fill-opacity="0.24"/>
+  <circle cx="1200" cy="720" r="1.8" fill="white" fill-opacity="0.22"/>
+</svg>
